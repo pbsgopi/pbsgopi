@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2022/12/openai-gpt-adobe-after-effects-creative-code-monitor_jpg.webp)](https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2022/12/openai-gpt-adobe-after-effects-creative-code-monitor_jpg.webp)
 <h1 align="center">Hi 👋, I'm Bhaskar Sri Gopi</h1>
 <h3 align="center">A passionate Learner from India</h3>
 
