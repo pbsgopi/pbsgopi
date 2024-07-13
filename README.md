@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gopipedamallu@gmail.com**
 
-- ⚡ Fun fact **Hello World!**
+- ⚡ **Let's Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
